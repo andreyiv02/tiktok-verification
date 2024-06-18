@@ -1,4 +1,1 @@
-tiktok-verification/
-├── .gitignore
-├── README.md
-└── tiktok-verify.html
+Если все шаги выполнены правильно, ваш файл должен быть доступен по указанному URL и вы сможете завершить процесс верификации в TikTok.
